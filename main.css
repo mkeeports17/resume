@@ -1,0 +1,17 @@
+body {
+    font-family: 'Times New Roman', Times, serif;
+    font-size:115%;
+}
+
+.header{
+    text-align:center;
+}
+.text{
+    
+}
+.job-title{
+    font-style: italic;
+}
+.company{
+    margin:auto;
+}
